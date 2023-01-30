@@ -12,7 +12,5 @@
 </div>
 
 <br>
-
-![Snake animation](https://github.com/maurotnnjr/maurotnnjr/blob/output/github-contribution-grid-snake.svg)
 </div>
 
