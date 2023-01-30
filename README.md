@@ -13,6 +13,6 @@
 
 <br>
 
-![Snake animatio](https://github.com/maurotnnjr/maurotnnjr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maurotnnjr/maurotnnjr/blob/output/github-contribution-grid-snake.svg)
 </div>
 
